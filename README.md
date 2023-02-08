@@ -1,4 +1,5 @@
 # Patel_Hit_Midterm
 ## This is repo for Midterm exam 
-### Readme Files - A README file on GitHub provides a detailed overview of the project, including its purpose, usage, and setup instructions. It serves as the project's documentation for potential contributors and users.
-### Pull request - A pull request on GitHub is a method for proposing changes to a project by suggesting modifications to its source code. It allows for collaboration and review by the project's contributors before the changes are merged into the main branch.
+### he name king Vikramaditya (Sanskrit: विक्रमादित्य) is a Sanskrit tatpurusha, from विक्रम (vikrama) meaning "valour" and आदित्य Āditya, son of Aditi. One of the most famous sons of Aditi, or adityas, was Surya the sun god; hence, Vikramaditya means Surya, translating to "Sun of valor." He is also called Vikrama or Vikramarka (Sanskrit arka meaning the Sun).
+
+Originally, the title Vikramaditya had been bestowed upon a legendary king of Ujjain, India, famed for his wisdom, valor and magnanimity. He assembled a cadre of scholars, "nava-ratna" or the "Nine Gems," whose work ushered a golden age in Sanskrit scholarship. The Nine Gems included Dhanwanthari, Kshapanaka, Amarasimha, Shankhu, Khatakarpara, Kalidasa, Vetalbhatt (or Vetalabhatta), Vararuchi, and Varahamihira. the Hindu tradition in India and Nepal holds that the widely used ancient calendar of the Vikrama Samvat or Vikrama's era had been created by the legendary king following his victory over the Sakas in 56 B.C.E.
